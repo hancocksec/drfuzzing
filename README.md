@@ -82,7 +82,7 @@ DrFuzzing/
 
 Hancock
 
-GitHub: github.com/USERNAME
+GitHub: github.com/hancock
 
 
 
